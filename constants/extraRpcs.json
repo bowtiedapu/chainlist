@@ -48,7 +48,8 @@
         "rpcs": [
             "https://rpc.ankr.com/eth_goerli",
             "https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
-            "https://eth-goerli.public.blastapi.io"
+            "https://eth-goerli.public.blastapi.io",
+            "https://geth-goerli.etc-network.info"
         ]
     },
     "3": {
